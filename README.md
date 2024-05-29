@@ -1,7 +1,10 @@
 # ionoss3_ceph_testing
 
 ## Iteration Results
-
+Command to run the test: 
+```bash
+python3 IonosS3_Ceph_Testing.py
+```
 Below are the execution times for each call to the Ionos Ceph API:
 
 | Iteration | Time Difference (seconds) |
